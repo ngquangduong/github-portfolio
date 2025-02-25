@@ -95,7 +95,7 @@ body {
     padding-bottom: 50px;
 }
 .home {
-    background-image: url('images/background.jpg');
+    background-image: url(images/background.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
